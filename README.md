@@ -2,6 +2,8 @@
 
 ##### A web Flash vertical 2D runner cancelled prototype.
 
+![ninja_runner_prototype](http://portfolio.visualstudioex3.com/wp-content/uploads/2014/05/ninjarunner_01.png)
+
 ##### Development date/period: 
 * February 2012
 

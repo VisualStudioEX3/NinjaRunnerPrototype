@@ -1,4 +1,4 @@
-# NinjaRunnerPrototype
+# Ninja Runner Prototype
 
 ##### A web Flash vertical 2D runner cancelled prototype.
 

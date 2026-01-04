@@ -2,7 +2,7 @@
 
 ##### A web Flash vertical 2D runner cancelled prototype.
 
-![ninja_runner_prototype](http://portfolio.visualstudioex3.com/wp-content/uploads/2014/05/ninjarunner_01.png)
+![ninja_runner_prototype](https://visualstudioex3.com/assets/images/gen/projects/ninja-runner/thumbnail.webp)
 
 ##### Development date/period: 
 * February 2012
@@ -18,7 +18,6 @@ This game was developed using FlashPunk game framework and FlashDevelop as IDE.
 * The folder structure and project file are prepared to used in FlashDevelop IDE.
 
 ##### Related links:
-* Portfolio page: http://portfolio.visualstudioex3.com/2012/02/01/ninja-runner/
-* Play the prototype from my portfolio site: http://portfolio.visualstudioex3.com/play-ninja-runner-prototype/ (required Adobe Flash)
+* Portfolio page: https://visualstudioex3.com/projects/ninja-runner
 * FlashDevelop IDE: http://www.flashdevelop.org/
 * FlashPunk game framework: http://useflashpunk.net/
